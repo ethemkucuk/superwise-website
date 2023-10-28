@@ -1,0 +1,46 @@
+@import "colors";
+
+footer{
+    background-color: $secondary;
+    height: 100px;
+    width: 100%;
+    color: $tertiary;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: .5rem;
+
+    >div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        >h1{
+            font: 2rem ;
+            text-transform: uppercase;
+            color: $tertiary;
+        }
+        >p{
+            font: 500 1.2rem ;
+        }
+
+        >h5{
+            font: 300 2rem ;
+            margin: 0.2rem 0;
+            text-align: center;
+        }
+
+        >div{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            a{
+                color: $primary;
+                font: 1rem ;
+                &:hover{
+                    color: $tertiary;
+                }
+            }
+        }
+    }
+
+}
