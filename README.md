@@ -1,31 +1,41 @@
+# React Proje 
 
-![main-page](Portfolyo\project2\react.js-project-four-main/web-site-1)
+Bu proje, React ile oluşturulmuş harika bir web uygulamasını içerir.
 
-![paying-screen](Portfolyo\project2\react.js-project-four-main/web-site-2)
+## Kurulum
 
+Projeyi yerel makinenize kurmak için aşağıdaki adımları izleyin:
 
+1. Bu depoyu klonlayın.
+2. Proje dizinine gidin: `cd proje-dizini`
+3. Bağımlılıkları yüklemek için: `npm install`
 
-# E-Commerce Website
+## Kullanım
 
-This project is a simple e-commerce website application built with React.
+Projeyi başlatmak için aşağıdaki komutu kullanın:
 
-## Getting Started
+## Görseller
 
-1. Clone the project:
+Bu sitenin görselleri aşağıdaki gibi sıralanmıştır:
 
+1. ![Açıklama](1.png)
 
-2. Install dependencies:npm install
+2. ![Açıklama](2.png)
 
+## Kullanım
 
-3. Start the project:npm start
+Bu sitede gezin ve Ethem Küçük'ün projelerini inceleyin. Görseller üzerine tıklayarak daha fazla ayrıntıya erişebilirsiniz. Sitenin kullanımı oldukça basittir ve gezinme işlemi kolaydır.
 
+## İletişim
 
-The application will run at [http://localhost:3000](http://localhost:3000).
+Ethem Küçük ile iletişime geçmek veya daha fazla bilgi almak için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
-## Usage
+- Email: ethemk10k@gmail.com
+- LinkedIn: [Ethem Küçük]([https://www.linkedin.com/in/ethemkucuk](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/))
 
-This e-commerce website allows users to view and purchase products.
+  ## Not
 
+  Bu site özgün bir değer taşımamaktadır, kendimi geliştirme ve öğrenme amacıyla yapılmıştır.
 
-
+---
 
